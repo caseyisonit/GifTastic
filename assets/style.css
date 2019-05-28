@@ -1,11 +1,9 @@
-.nav {
+.jumbotron {
 background-color: #eee;
+padding: 25px;
 };
 
-.display-3 {
-padding-top: 25px;
-};
 
 .container{
-    margin: auto 0px;
-}
+    margin: 0 auto;
+};
